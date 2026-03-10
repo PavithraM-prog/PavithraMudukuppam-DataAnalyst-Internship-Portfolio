@@ -12,6 +12,7 @@ Performed exploratory data analysis and answered business questions using SQL qu
 Repository: [View Project](https://github.com/PavithraM-prog/Task2-EDA-Business-Intelligence/tree/main)
 
 ### Task 3 – Deep-Dive Analysis & Interactive Dashboard
+
 Built an interactive dashboard using BI tools to track KPIs and analyze business performance.
 
 
