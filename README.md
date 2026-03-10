@@ -49,6 +49,21 @@ Repository: [View Project](https://github.com/PavithraM-prog/Task4_Data_Storytel
 
 The complete summary of the internship work is available here:
 
-Presentation: presentation/
+Presentation: presentation/Data Analytics Internship Portfolio.pdf
+
+## Key Skills Developed
+
+- Data Cleaning and Preparation
+- Exploratory Data Analysis
+- SQL Querying
+- Data Visualization
+- Dashboard Development
+- Data Storytelling
+
+
+## Conclusion
+
+This internship helped me gain practical experience in the complete data analytics workflow—from preparing raw data to generating actionable insights and presenting results effectively.
+
 
 
