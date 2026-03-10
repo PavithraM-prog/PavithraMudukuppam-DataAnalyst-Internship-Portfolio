@@ -1,4 +1,25 @@
 # PavithraMudukuppam-DataAnalyst-Internship-Portfolio
+# Data Analytics Internship Portfolio
+
+This repository contains the complete work completed during my **60-Day Data Analytics Internship** at ApexPlanet Software Pvt. Ltd.  
+The internship focused on developing practical skills in **data cleaning, exploratory data analysis, dashboard creation, and data storytelling**.
+
+## About the Internship
+
+- Organization: ApexPlanet Software Pvt. Ltd.
+- Duration: 60 Days
+- Domain: Data Analytics
+During this internship, I worked on an end-to-end data analysis process starting from raw data preparation to generating business insights through dashboards and presentations.
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- SQL
+- Power BI 
+- Jupyter Notebook
+- GitHub
+
 ## Internship Projects
 
 ### Task 1 – Data Immersion & Wrangling
@@ -23,4 +44,11 @@ Repository: [View Project](https://github.com/PavithraM-prog/Task3-DeepDive-Dash
 Created a presentation summarizing insights and validated findings using statistical testing.
 
 Repository: [View Project](https://github.com/PavithraM-prog/Task4_Data_Storytelling_and_Hypothesis_Testing)
+
+## Final Presentation
+
+The complete summary of the internship work is available here:
+
+Presentation: presentation/
+
 
